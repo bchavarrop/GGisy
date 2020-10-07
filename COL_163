@@ -1,0 +1,1 @@
+python GGisy.py -r COL_163.fa -q M.leprae_TN.fa -i 90
